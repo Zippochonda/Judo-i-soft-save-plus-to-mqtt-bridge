@@ -81,7 +81,7 @@ python_packages:
 system_packages:
 ```
 
-3. Copy all files from the python folder into the folder appdaemon/apps/main (incl. temp_getjudo.py) -> Studio Code Server . Rename config_getjudo_default.py to config_getjudo.py 
+3. Copy all files from the python folder into the folder /addon_configs/a0d7b954_appdaemon/apps/main (incl. temp_getjudo.py) -> Studio Code Server . Rename config_getjudo_default.py to config_getjudo.py 
 4. Modify the apps.yaml file:
 
 ```
